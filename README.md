@@ -4,6 +4,13 @@ Generic USB 2.0 hub designed in according to USB 2.0 specifications. Designed to
 - Type-C input (12-pin)
 - Three Type-A 2.0 ports
 
+Compatible:
+- Windows
+- Linux
+- MacOS
+- Android
+- iOS
+
 This circuit can be implemented as a part of any other simple USB2.0 board (e.g. Arduino). This design is used for my micro8051 board as well as PCIe based ROS-platform
 
 P.S. I use this board to save ports on my Intel NUC computer
