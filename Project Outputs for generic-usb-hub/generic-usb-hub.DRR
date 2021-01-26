@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: generic-usb-hub.PcbDoc   26-Jan-21  13:34:30
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : generic-usb-hub-RoundHoles.TXT
+ASCII SlotHoles File : generic-usb-hub-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.399mm)                                           Round             16        PTH        0.00inch (0.00mm)
+T2      24mil (0.599mm)                                           Slot              4         PTH        0.00inch (0.00mm)
+T3      36mil (0.919mm)                                           Round             12        PTH        0.00inch (0.00mm)
+T4      91mil (2.301mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T5      98mil (2.499mm)                                           Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              40
+
+Total Processing Time (hh:mm:ss) : 00:00:01
