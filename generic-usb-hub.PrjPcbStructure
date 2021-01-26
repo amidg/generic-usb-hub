@@ -1,5 +1,1 @@
-Record=TopLevelDocument|FileName=ISP.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=ISP.SchDoc|FileName=micro8051.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=ISP.SchDoc|FileName=power.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=ISP.SchDoc|FileName=serial8051.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=ISP.SchDoc|FileName=USB.SchDoc|SheetNumber= 
+Record=TopLevelDocument|FileName=USB.SchDoc|SheetNumber= 
